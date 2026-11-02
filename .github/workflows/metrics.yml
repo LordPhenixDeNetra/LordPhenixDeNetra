@@ -27,8 +27,6 @@ jobs:
           config_timezone: Africa/Dakar
           base: header, activity, community, repositories
           base_indepth: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
 
       - name: Languages
         uses: lowlighter/metrics@latest

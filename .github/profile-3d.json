@@ -1,0 +1,24 @@
+[
+  {
+    "type": "normal",
+    "fileName": "phoenix-dark.svg",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#e6edf3",
+    "strongColor": "#ff6b35",
+    "weakColor": "#8b949e",
+    "radarColor": "#ff6b35",
+    "growingAnimation": true,
+    "contribColors": ["#161b22", "#7c2d12", "#c2410c", "#ff6b35", "#ffb38a"]
+  },
+  {
+    "type": "normal",
+    "fileName": "phoenix-light.svg",
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#1f2328",
+    "strongColor": "#c2410c",
+    "weakColor": "#656d76",
+    "radarColor": "#c2410c",
+    "growingAnimation": true,
+    "contribColors": ["#ebedf0", "#ffd8c2", "#ff9a66", "#ff6b35", "#9a3412"]
+  }
+]

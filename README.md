@@ -141,9 +141,18 @@ Plugin pour construire des scènes 3D fondées sur des décisions vérifiables �
 </p>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/phoenix-dark.svg"/>
+  <img alt="Contributions en 3D" src="./profile-3d-contrib/phoenix-light.svg"/>
+</picture>
+
+<details>
+<summary><b>🐍 Snake des contributions</b></summary>
+<br/>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LordPhenixDeNetra/LordPhenixDeNetra/output/github-contribution-grid-snake-dark.svg"/>
   <img alt="Snake des contributions" src="https://raw.githubusercontent.com/LordPhenixDeNetra/LordPhenixDeNetra/output/github-contribution-grid-snake.svg"/>
 </picture>
+</details>
 
 ---
 
