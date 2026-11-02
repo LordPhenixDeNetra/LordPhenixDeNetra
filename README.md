@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,55:7C2D12,100:FF6B35&height=230&section=header&text=Moussa%20Thior&fontSize=58&fontColor=ffffff&fontAlign=32&fontAlignY=38&rotate=-6&desc=LordPhenixDeNetra%20%C2%B7%20Dakar%2C%20S%C3%A9n%C3%A9gal&descSize=18&descAlign=32&descAlignY=58&animation=fadeIn" width="100%" alt="Moussa Thior — LordPhenixDeNetra"/>
 
-<a href="https://github.com/LordPhenixDeNetra"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FF6B35&center=true&vCenter=true&width=760&lines=Ing%C3%A9nieur+Syst%C3%A8mes+d%27Information+R%C3%A9partis;Rust+%C2%B7+Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Java;Infra+souveraine%2C+s%C3%A9curit%C3%A9%2C+IA+auto-h%C3%A9berg%C3%A9e;Du+code+qui+tient+en+production." alt="Typing SVG"/></a>
+<a href="https://github.com/LordPhenixDeNetra"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FF6B35&center=true&vCenter=true&width=760&lines=Ing%C3%A9nieur+Syst%C3%A8mes+d%27Information+R%C3%A9partis;Rust+%C2%B7+Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Java;IA+%2F+ML+%C2%B7+AR+%C2%B7+VR+%C2%B7+MR+%C2%B7+XR;Infra+souveraine+%26+s%C3%A9curit%C3%A9;Du+code+qui+tient+en+production." alt="Typing SVG"/></a>
 
 <a href="https://netrathior.site"><img src="https://img.shields.io/badge/netrathior.site-111?style=flat-square&logo=googlechrome&logoColor=FF6B35" alt="Portfolio"/></a>
 <a href="mailto:netratior@gmail.com"><img src="https://img.shields.io/badge/netratior@gmail.com-111?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
@@ -19,7 +19,7 @@ let moussa = Engineer {
     base:     "Dakar 🇸🇳",
     role:     "Ingénieur SI répartis — backend, systèmes, infra",
     building: ["LPDNSoft (suite desktop Rust)", "Ndaal", "HermiNas", "Hopitalia"],
-    focus:    ["Rust", "Go", "sécurité défensive", "IA auto-hébergée"],
+    focus:    ["Rust", "Go", "IA / ML", "AR · VR · MR · XR", "sécurité défensive"],
     open_to:  ["collaborations produit", "freelance", "conseil en architecture"],
     contact:  "netratior@gmail.com",
 };
@@ -28,7 +28,7 @@ let moussa = Engineer {
 <details>
 <summary><b>🇬🇧 In English</b></summary>
 <br/>
-Distributed information systems engineer based in Dakar. I build backends, systems tools and self-hosted infrastructure — mostly in Rust and Go these days, with Python, TypeScript and Java around them. Open to product collaborations, freelance work and architecture consulting: <a href="mailto:netratior@gmail.com">netratior@gmail.com</a>.
+Distributed information systems engineer based in Dakar. I build backends, systems tools and self-hosted infrastructure — mostly in Rust and Go these days, with Python, TypeScript and Java around them — plus applied AI/ML and AR/VR/MR/XR experiences. Open to product collaborations, freelance work and architecture consulting: <a href="mailto:netratior@gmail.com">netratior@gmail.com</a>.
 </details>
 
 ---
@@ -119,11 +119,13 @@ Plugin pour construire des scènes 3D fondées sur des décisions vérifiables �
 
 ### ⚡ Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,python,ts,java,kotlin,dart,cs,php&theme=dark" alt="Langages"/><br/>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,nestjs,laravel,react,angular,nextjs,tailwind,flutter&theme=dark" alt="Frameworks"/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,linux,githubactions,pytorch,tensorflow,opencv,blender&theme=dark" alt="Données, infra, IA, 3D"/>
-</p>
+| | |
+|---|---|
+| **Langages** | <img src="https://skillicons.dev/icons?i=rust,go,python,ts,java,kotlin,dart,cs,php&theme=dark&perline=9" height="38" alt="Langages"/> |
+| **Backend · Web · Mobile** | <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,nestjs,laravel,react,angular,nextjs,tailwind,flutter&theme=dark&perline=10" height="38" alt="Frameworks"/> |
+| **🧠 IA / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" height="38" alt="IA / ML"/> <img src="https://img.shields.io/badge/Hugging_Face-111?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="38" alt="Hugging Face"/> |
+| **🥽 AR · VR · MR · XR / 3D** | <img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="38" alt="Unity, Blender"/> <img src="https://img.shields.io/badge/WebXR-111?style=for-the-badge&logo=webxr&logoColor=FF6B35" height="38" alt="WebXR"/> <img src="https://img.shields.io/badge/AR_·_VR_·_MR-111?style=for-the-badge&logo=googlecardboard&logoColor=FF6B35" height="38" alt="AR VR MR"/> |
+| **Données · Infra** | <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,linux,githubactions&theme=dark" height="38" alt="Données, infra"/> |
 
 ---
 
